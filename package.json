@@ -1,0 +1,33 @@
+{
+  "name": "typescript-to-reason",
+  "version": "1.0.0",
+  "main": "./src/test.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@types/node": "^12.0.2",
+    "@types/react": "^16.8.23",
+    "@types/yargs": "^13.0.0",
+    "bs-platform": "^7.1.1",
+    "dotenv": "^8.2.0",
+    "dts-generator": "^3.0.0",
+    "fp-ts": "^2.0.3",
+    "io-ts": "^2.0.0",
+    "node-uuid": "^1.4.8",
+    "react": "^16.8.6",
+    "torrent-search-api": "^2.0.10",
+    "ts-morph": "^2.1.0",
+    "tslib": "^1.11.1",
+    "typescript": "^3.4.5",
+    "uuid": "^3.3.2",
+    "winston": "^3.2.1",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0",
+    "ts-node": "^8.1.0"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
